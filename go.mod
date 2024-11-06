@@ -1,4 +1,4 @@
-module github.com/izinga/mongo-driver/v2
+module github.com/izinga/mongo-driver
 
 go 1.18
 
